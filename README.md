@@ -4,10 +4,10 @@
 
 ```lua
 :H
--- Or
+:Here
 :H ../
--- Or
+
 :Hv
--- Or
+:Herev
 :Hv ../../wow.lua
 ```
